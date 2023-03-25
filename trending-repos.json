@@ -1,0 +1,202 @@
+[
+  {
+    "title": "nsarrazin /\n\n      serge",
+    "description": "A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",
+    "url": "https://github.com/nsarrazin/serge",
+    "stars": "Star\n\n\n        \n    \n\n        1,652\n\n        \n    \n\n        487 stars today",
+    "forks": "89",
+    "language": "Python"
+  },
+  {
+    "title": "madawei2699 /\n\n      myGPTReader",
+    "description": "myGPTReader is a slack bot that can read any webpage, ebook or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.",
+    "url": "https://github.com/madawei2699/myGPTReader",
+    "stars": "Star\n\n\n        \n    \n\n        1,892\n\n        \n    \n\n        544 stars today",
+    "forks": "139",
+    "language": "Python"
+  },
+  {
+    "title": "mrsked /\n\n      mrsk",
+    "description": "Deploy web apps anywhere.",
+    "url": "https://github.com/mrsked/mrsk",
+    "stars": "Star\n\n\n        \n    \n\n        4,456\n\n        \n    \n\n        128 stars today",
+    "forks": "132",
+    "language": "Ruby"
+  },
+  {
+    "title": "programthink /\n\n      zhao",
+    "description": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
+    "url": "https://github.com/programthink/zhao",
+    "stars": "Star\n\n\n        \n    \n\n        11,728\n\n        \n    \n\n        147 stars today",
+    "forks": "2,684",
+    "language": "Python"
+  },
+  {
+    "title": "BlinkDL /\n\n      RWKV-LM",
+    "description": "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, \"infinite\" ctx_len, and free sentence embedding.",
+    "url": "https://github.com/BlinkDL/RWKV-LM",
+    "stars": "Star\n\n\n        \n    \n\n        3,638\n\n        \n    \n\n        692 stars today",
+    "forks": "255",
+    "language": "Python"
+  },
+  {
+    "title": "mckaywrigley /\n\n      chatbot-ui",
+    "description": "A ChatGPT clone for running locally in your browser.",
+    "url": "https://github.com/mckaywrigley/chatbot-ui",
+    "stars": "Star\n\n\n        \n    \n\n        3,461\n\n        \n    \n\n        715 stars today",
+    "forks": "590",
+    "language": "TypeScript"
+  },
+  {
+    "title": "LC1332 /\n\n      Chinese-alpaca-lora",
+    "description": "骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技",
+    "url": "https://github.com/LC1332/Chinese-alpaca-lora",
+    "stars": "Star\n\n\n        \n    \n\n        536\n\n        \n    \n\n        192 stars today",
+    "forks": "33",
+    "language": "Jupyter Notebook"
+  },
+  {
+    "title": "dragonflydb /\n\n      dragonfly",
+    "description": "A modern replacement for Redis and Memcached",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "stars": "Star\n\n\n        \n    \n\n        17,893\n\n        \n    \n\n        128 stars today",
+    "forks": "603",
+    "language": "C++"
+  },
+  {
+    "title": "LianjiaTech /\n\n      BELLE",
+    "description": "BELLE: BE Large Language model Engine（开源中文对话大模型）",
+    "url": "https://github.com/LianjiaTech/BELLE",
+    "stars": "Star\n\n\n        \n    \n\n        1,786\n\n        \n    \n\n        244 stars today",
+    "forks": "124",
+    "language": "Python"
+  },
+  {
+    "title": "codebdy /\n\n      rxdrag",
+    "description": "Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计",
+    "url": "https://github.com/codebdy/rxdrag",
+    "stars": "Star\n\n\n        \n    \n\n        2,208\n\n        \n    \n\n        43 stars today",
+    "forks": "295",
+    "language": "TypeScript"
+  },
+  {
+    "title": "Leizhenpeng /\n\n      feishu-chatgpt",
+    "description": "🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀",
+    "url": "https://github.com/Leizhenpeng/feishu-chatgpt",
+    "stars": "Star\n\n\n        \n    \n\n        1,854\n\n        \n    \n\n        254 stars today",
+    "forks": "292",
+    "language": "Go"
+  },
+  {
+    "title": "fauxpilot /\n\n      fauxpilot",
+    "description": "FauxPilot - an open-source GitHub Copilot server",
+    "url": "https://github.com/fauxpilot/fauxpilot",
+    "stars": "Star\n\n\n        \n    \n\n        9,719\n\n        \n    \n\n        372 stars today",
+    "forks": "402",
+    "language": "Python"
+  },
+  {
+    "title": "deep-diver /\n\n      Alpaca-LoRA-Serve",
+    "description": "Alpaca-LoRA as Chatbot service",
+    "url": "https://github.com/deep-diver/Alpaca-LoRA-Serve",
+    "stars": "Star\n\n\n        \n    \n\n        933\n\n        \n    \n\n        142 stars today",
+    "forks": "103",
+    "language": "Python"
+  },
+  {
+    "title": "typst /\n\n      typst",
+    "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "url": "https://github.com/typst/typst",
+    "stars": "Star\n\n\n        \n    \n\n        9,244\n\n        \n    \n\n        1,514 stars today",
+    "forks": "131",
+    "language": "Rust"
+  },
+  {
+    "title": "programthink /\n\n      books",
+    "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）",
+    "url": "https://github.com/programthink/books",
+    "stars": "Star\n\n\n        \n    \n\n        14,903\n\n        \n    \n\n        75 stars today",
+    "forks": "2,929",
+    "language": ""
+  },
+  {
+    "title": "GaiZhenbiao /\n\n      ChuanhuChatGPT",
+    "description": "GUI for ChatGPT API",
+    "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
+    "stars": "Star\n\n\n        \n    \n\n        5,649\n\n        \n    \n\n        701 stars today",
+    "forks": "704",
+    "language": "Python"
+  },
+  {
+    "title": "NVIDIAGameWorks /\n\n      Path-Tracing-SDK",
+    "description": "Real-time path tracing library and sample",
+    "url": "https://github.com/NVIDIAGameWorks/Path-Tracing-SDK",
+    "stars": "Star\n\n\n        \n    \n\n        367\n\n        \n    \n\n        75 stars today",
+    "forks": "37",
+    "language": "C++"
+  },
+  {
+    "title": "evanw /\n\n      thumbhash",
+    "description": "A very compact representation of an image placeholder",
+    "url": "https://github.com/evanw/thumbhash",
+    "stars": "Star\n\n\n        \n    \n\n        1,712\n\n        \n    \n\n        231 stars today",
+    "forks": "25",
+    "language": "Swift"
+  },
+  {
+    "title": "mayooear /\n\n      gpt4-pdf-chatbot-langchain",
+    "description": "GPT4 & LangChain Chatbot for large PDF docs",
+    "url": "https://github.com/mayooear/gpt4-pdf-chatbot-langchain",
+    "stars": "Star\n\n\n        \n    \n\n        2,551\n\n        \n    \n\n        590 stars today",
+    "forks": "309",
+    "language": "TypeScript"
+  },
+  {
+    "title": "ddobokki /\n\n      chatgpt_stock_report",
+    "description": "그날의 증권사 리포트를 챗 gpt를 활용해 요약하는 레포",
+    "url": "https://github.com/ddobokki/chatgpt_stock_report",
+    "stars": "Star\n\n\n        \n    \n\n        138\n\n        \n    \n\n        19 stars today",
+    "forks": "11",
+    "language": "Python"
+  },
+  {
+    "title": "BloopAI /\n\n      bloop",
+    "description": "bloop is a fast code search engine written in Rust.",
+    "url": "https://github.com/BloopAI/bloop",
+    "stars": "Star\n\n\n        \n    \n\n        2,781\n\n        \n    \n\n        247 stars today",
+    "forks": "98",
+    "language": "TypeScript"
+  },
+  {
+    "title": "BlinkDL /\n\n      ChatRWKV",
+    "description": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",
+    "url": "https://github.com/BlinkDL/ChatRWKV",
+    "stars": "Star\n\n\n        \n    \n\n        4,184\n\n        \n    \n\n        195 stars today",
+    "forks": "251",
+    "language": "Python"
+  },
+  {
+    "title": "lukasHoel /\n\n      text2room",
+    "description": "Text2Room generates textured 3D meshes from a given text prompt using 2D text-to-image models.",
+    "url": "https://github.com/lukasHoel/text2room",
+    "stars": "Star\n\n\n        \n    \n\n        386\n\n        \n    \n\n        92 stars today",
+    "forks": "19",
+    "language": "Python"
+  },
+  {
+    "title": "labmlai /\n\n      annotated_deep_learning_paper_implementations",
+    "description": "🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "stars": "Star\n\n\n        \n    \n\n        18,493\n\n        \n    \n\n        225 stars today",
+    "forks": "1,996",
+    "language": "Jupyter Notebook"
+  },
+  {
+    "title": "PlexPt /\n\n      awesome-chatgpt-prompts-zh",
+    "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "stars": "Star\n\n\n        \n    \n\n        21,027\n\n        \n    \n\n        799 stars today",
+    "forks": "6,442",
+    "language": ""
+  }
+]
