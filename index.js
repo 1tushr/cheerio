@@ -32,6 +32,8 @@ https.get('https://github.com/trending', res => {
       });
     });
 
+    console.log(repos);
+
     fs.writeFileSync('trending-repos.json', JSON.stringify(repos, null, 2));
     console.log('Trending repositories data saved to trending-repos.json');
   });
@@ -51,13 +53,14 @@ https.get('https://github.com/trending/developers?since=daily&spoken_language_co
     const $ = cheerio.load(data);
     const devs = [];
 
-    $('li .col-md-6').each((i, el) => {
-      const devName = $(el).find('.h3 > a').text().trim();
-      const devUsername = $(el).find('.h3 > a').attr('href').slice(1);
-      const devRepo = {
-        name: $(el).find('h1 > a').text().trim(),
-        description: $(el).find('.col-9 > p').text().trim()
-      };
+    
+    $(".Box-row").each((index,el) => {
+      devs.push({
+         const: devName = $(el).find(".h3").text().replace(/\s\s+/g,''),
+          const:devUsername =$(el).find("p > a").text().trim(),
+          const:devRepo = $(el).find(".color-fg-muted + h1").text().trim(),
+         const: description = $(el).find(".color-fg-muted + h1 + div").text().trim()
+      });
 
       devs.push({
         name: devName,
@@ -65,7 +68,7 @@ https.get('https://github.com/trending/developers?since=daily&spoken_language_co
         repo: devRepo
       });
     });
-
+console.log(devs);
     fs.writeFileSync('top-devs.json', JSON.stringify(devs, null, 2));
     console.log('Top developers data saved to top-devs.json');
   });
@@ -73,10 +76,7 @@ https.get('https://github.com/trending/developers?since=daily&spoken_language_co
   console.error(error);
 });
 
-const trendingRepos = JSON.parse(fs.readFileSync('trending-repos.json', 'utf-8').replace(/\n|\r/g, ''));
-console.log('Trending repositories:');
-console.log(trendingRepos);
 
-const topDevs = JSON.parse(fs.readFileSync('top-devs.json', 'utf-8').replace(/\n|\r/g, ''));
-console.log('Top developers:');
-console.log(topDevs);
+
+
+
